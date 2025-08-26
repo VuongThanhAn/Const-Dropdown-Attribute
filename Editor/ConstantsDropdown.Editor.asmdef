@@ -1,0 +1,18 @@
+{
+    "name": "ConstantsDropdown.Editor",
+    "rootNamespace": "ConstantsDropdown.Editor",
+    "references": [
+        "GUID:af3b1e7dfe5835d479a3a33b01ea4593"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

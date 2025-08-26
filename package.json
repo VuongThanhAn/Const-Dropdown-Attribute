@@ -1,0 +1,25 @@
+{
+  "name": "com.echo_of_steel.const-dropdown",
+  "version": "1.0.0",
+  "displayName": "Const Dropdown Attribute",
+  "description": "A Unity Editor extension that provides searchable dropdowns for constant values in Inspector, with support for conditional switching between classes based on bool fields, properties, or methods.",
+  "unity": "2020.3",
+  "author": {
+    "name": "Echo Of Steel",
+    "email": "thanhanforjob@gmail.com",
+    "url": "https://vuongthanhan.github.io/vuong-thanh-an-cv/"
+  },
+  "keywords": [
+    "unity",
+    "editor",
+    "attribute",
+    "dropdown",
+    "search",
+    "constants"
+  ],
+  "category": "editor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VuongThanhAn/vuong-thanh-an-cv"
+  }
+}
