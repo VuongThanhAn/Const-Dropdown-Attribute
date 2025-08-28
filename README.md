@@ -19,8 +19,7 @@ Perfect for large sets of `const string` or `enum-like` constants spread across 
 ---
 
 ## 📦 Installation
-1. Copy the folder `Plugins/ConstantDropdown/` into your Unity project.  
-   (or put into any `Editor` folder you prefer)  
+1. Copy the url: https://github.com/VuongThanhAn/Const-Dropdown-Attribute.git paste in the Package Manager url
 2. Done. The attribute is now ready to use.
 
 ---
